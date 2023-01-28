@@ -126,7 +126,7 @@ body {
   min-height: calc(100vh - 58px - 10vh);
 }
 
-.cards a {
+.cards {
   text-decoration: none;
   color: black;
 }
